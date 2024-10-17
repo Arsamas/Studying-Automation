@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/MainStringTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/MainTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/TaskArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/TaskArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/TaskArray3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/TaskArray4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/TaskArray5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/welcome/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="Commit 10/16/24">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -45,7 +35,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Arsamas/untitled.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Arsamas/Studying-Automation.git&quot;,
     &quot;accountId&quot;: &quot;b102d760-85be-4eed-b06d-7795c76c9b17&quot;
   }
 }</component>
@@ -58,42 +48,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Greeting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainStringTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TaskArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TaskArray2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TaskArray3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TaskArray4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TaskArray5.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hrabilin/GitGit/untitled&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Greeting.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.MainStringTask.executor": "Run",
+    "Application.MainTask.executor": "Run",
+    "Application.TaskArray.executor": "Run",
+    "Application.TaskArray2.executor": "Run",
+    "Application.TaskArray3.executor": "Run",
+    "Application.TaskArray4.executor": "Run",
+    "Application.TaskArray5.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "new__branch",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hrabilin",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="untitled" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -103,6 +78,15 @@
       <option name="presentableId" value="Default" />
       <updated>1728916024139</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit 10/16/24">
+      <option name="closed" value="true" />
+      <created>1729081289241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729081289241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 10/16/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 10/16/24" />
   </component>
 </project>
