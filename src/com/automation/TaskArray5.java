@@ -30,6 +30,6 @@ public class TaskArray5 {
         System.out.println(arrSmall2[i]); //Fill the main array
      }
 
-        System.out.println("Hello World");
+        System.out.println("Hello My World");
    }
 }
