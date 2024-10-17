@@ -29,5 +29,7 @@ public class TaskArray5 {
         for( int i = 0; i<arrSmall2.length;i++)    {
         System.out.println(arrSmall2[i]); //Fill the main array
      }
+
+        System.out.println("Hello World");
    }
 }
