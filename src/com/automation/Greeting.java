@@ -20,4 +20,11 @@ public class Greeting {
         String name = scan.nextLine();
         System.out.println("Hello, " + name);
     }
+
+    static void printName() {
+        System.out.println("Please enter your full name: ");
+        Scanner scan = new Scanner(System.in);
+        String name = scan.nextLine();
+        System.out.println("Hi, " + name);
+    }
 }
