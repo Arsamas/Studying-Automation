@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="Add tasks from Control construct" />
+    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="Add tasks from Control construct">
+      <change afterPath="$PROJECT_DIR$/src/com/automation/LoopTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/LoopTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/LoopTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="new_branch" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,6 +61,9 @@
     "Application.ControlCons1.executor": "Run",
     "Application.ControlCons7.executor": "Run",
     "Application.Greeting.executor": "Run",
+    "Application.LoopTask1.executor": "Run",
+    "Application.LoopTask2.executor": "Run",
+    "Application.LoopTask3.executor": "Run",
     "Application.Main2.executor": "Run",
     "Application.MainStringTask.executor": "Run",
     "Application.MainTask.executor": "Run",
@@ -68,7 +76,7 @@
     "git-widget-placeholder": "new__branch2",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hrabilin",
+    "last_opened_file_path": "C:/Users/hrabilin/Studying-Automation",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
