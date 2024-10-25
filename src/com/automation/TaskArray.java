@@ -20,8 +20,8 @@ public class TaskArray {
      static int[] initializeArray() throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int[] arr = new int[20];    //Create array
-        for (int i = 0; i < arr.length; i++) {
-            String s = reader.readLine();   //Get number from user
+        for (int i = 0; i < arr.length; i++) { String ss = reader.readLine();   //Get number from user
+            String s = reader.readLine();   //Get number from user String s = reader.readLine();   //Get number from user
             arr[i] = Integer.parseInt(s);  //Fill the array with the number
         }
         return arr;
