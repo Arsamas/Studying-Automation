@@ -1,2 +1,2 @@
 A new file to training git conflict feature.
-
+I added updates in the feature-B`
