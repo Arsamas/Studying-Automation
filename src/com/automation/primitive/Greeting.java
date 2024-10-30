@@ -1,4 +1,4 @@
-package com.automation;
+package com.automation.primitive;
 import java.util.Scanner;
 
 /*
@@ -12,6 +12,7 @@ public class Greeting {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         printHelloName();
+        printName();
     }
 
     static void printHelloName() {

@@ -1,4 +1,4 @@
-package com.automation;
+package com.automation.array;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
@@ -13,15 +13,17 @@ Task 1
 
 public class TaskArray {
     public static void main(String[] args) throws IOException {
+        System.out.println("Hello world!");
         max(initializeArray()); //Method finds a maximum number in the array
 
     }
 
      static int[] initializeArray() throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        int[] arr = new int[20];    //Create array
+        int[] arr = new int[5];    //Create array
         for (int i = 0; i < arr.length; i++) {
-            String s = reader.readLine();   //Get number from user
+            String ss = reader.readLine();   //Get number from user
+            String s = reader.readLine();   //Get number from user String s = reader.readLine();   //Get number from user
             arr[i] = Integer.parseInt(s);  //Fill the array with the number
         }
         return arr;
@@ -36,5 +38,6 @@ public class TaskArray {
         }
         System.out.println(max); //Output maximum number
     }
-
 }
+
+

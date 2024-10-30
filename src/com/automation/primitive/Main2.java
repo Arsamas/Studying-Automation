@@ -1,4 +1,4 @@
-package com.automation;
+package com.automation.primitive;
 import java.util.Scanner;
 import com.welcome.*;
 
