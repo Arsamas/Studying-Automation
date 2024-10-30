@@ -1,4 +1,4 @@
-package com.automation;
+package com.automation.typeconverions;
 
 /*
 Task 1

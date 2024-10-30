@@ -1,4 +1,4 @@
-package com.automation;
+package com.automation.control_constructs;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
