@@ -1,2 +1,6 @@
 A new file to training git conflict feature.
+<<<<<<< HEAD
 I added updates in the feature-A brunch
+=======
+
+>>>>>>> feature-B
