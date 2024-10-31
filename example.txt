@@ -1,2 +1,7 @@
 A new file to training git conflict feature.
 Add something
+assertThat("The certificate " + certificateId + " isn't undeployed.", DeploymentSteps.checkWhereCertificateIsDeployed(certificateId), equalTo(""));
+
+
+A new file to training git conflict feature.
+I added updates in the feature-A brunch
