@@ -1,12 +1,7 @@
+assertThat("The certificate " + certificateId + " isn't undeployed.", DeploymentSteps.checkWhereCertificateIsDeployed(certificateId), equalTo(""));
+
+
+
+
 A new file to training git conflict feature.
-<<<<<<< HEAD
->>>>>>> feature-B
->>>>>>> feature-B
 I added updates in the feature-A brunch
-=======
->>>>>>> feature-B
->>>>>>> feature-B
->>>>>>> feature-B
-
-
-Updates 31/10/2024
