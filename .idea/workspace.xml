@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="Training Conflict">
+    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="New version of OOP Task with Figures">
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask13.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask4And5.java" afterDir="false" />
@@ -15,14 +16,8 @@
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/figures/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/figures/Figures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/figures/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/figures/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/figures/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTsk12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/array/TaskArray4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/array/TaskArray4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/separate_package/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/separate_package/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +87,7 @@
     "Application.CollectionsTask1.executor": "Run",
     "Application.CollectionsTask10.executor": "Run",
     "Application.CollectionsTask11.executor": "Run",
+    "Application.CollectionsTask13.executor": "Run",
     "Application.CollectionsTask2.executor": "Run",
     "Application.CollectionsTask3.executor": "Run",
     "Application.CollectionsTask4And5.executor": "Run",
@@ -99,6 +95,7 @@
     "Application.CollectionsTask7.executor": "Run",
     "Application.CollectionsTask8.executor": "Run",
     "Application.CollectionsTask9.executor": "Run",
+    "Application.CollectionsTsk12.executor": "Run",
     "Application.ContolConst2.executor": "Run",
     "Application.ContolConst56.executor": "Run",
     "Application.ControlCons1.executor": "Run",
@@ -136,26 +133,6 @@
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="CollectionTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.automation.collections.CollectionTask3" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CollectionTask3" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -237,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730383908535</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New version of OOP Task with Figures">
+      <option name="closed" value="true" />
+      <created>1730795130447</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730795130447</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,6 +259,7 @@
     <MESSAGE value="Loop Task are added" />
     <MESSAGE value="Finished Practical OOP and task with exceptions" />
     <MESSAGE value="Training Conflict" />
-    <option name="LAST_COMMIT_MESSAGE" value="Training Conflict" />
+    <MESSAGE value="New version of OOP Task with Figures" />
+    <option name="LAST_COMMIT_MESSAGE" value="New version of OOP Task with Figures" />
   </component>
 </project>
