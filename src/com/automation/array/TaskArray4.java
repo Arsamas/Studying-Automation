@@ -34,4 +34,5 @@ public class TaskArray4 {
             System.out.println(arrNum[i]);            //Display the array: each value on a new line
         }
     }
+
 }

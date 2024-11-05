@@ -4,32 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="Loop Task are added">
-      <change afterPath="$PROJECT_DIR$/src/com/automation/control_constructs/ForLoopTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/control_constructs/ForLoopTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/exception_task/TaskException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/oop_task/OOP_Practical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/separate_package/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/separate_package/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/separate_package/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/separate_package/Triangle.java" afterDir="false" />
+    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="New version of OOP Task with Figures">
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask4And5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTsk12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/ContolConst2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/control_constructs/ContolConst2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/ContolConst56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/control_constructs/ContolConst56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/ControlCons1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/control_constructs/ControlCons1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/ControlCons7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/control_constructs/ControlCons7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/primitive/Greeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/LoopTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/control_constructs/LoopTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/LoopTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/control_constructs/LoopTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/LoopTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/control_constructs/LoopTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/primitive/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/MainStringTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/referencetype/MainStringTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/MainTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/typeconverions/MainTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/TaskArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/array/TaskArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/TaskArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/array/TaskArray2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/TaskArray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/array/TaskArray3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/TaskArray4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/array/TaskArray4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/TaskArray5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/array/TaskArray5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +40,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;searchQuery&quot;: &quot;new_branch2&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;Arsamas&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
+    &quot;searchQuery&quot;: &quot;new_branch2&quot;,
     &quot;state&quot;: &quot;OPEN&quot;,
     &quot;assignee&quot;: &quot;Arsamas&quot;
   }
@@ -61,6 +57,16 @@
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Arsamas/Studying-Automation.git&quot;,
     &quot;accountId&quot;: &quot;b102d760-85be-4eed-b06d-7795c76c9b17&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;Arsamas&quot;,
+    &quot;repository&quot;: &quot;Studying-Automation&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -77,6 +83,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CollectionTask3.executor": "Run",
+    "Application.CollectionsTask1.executor": "Run",
+    "Application.CollectionsTask10.executor": "Run",
+    "Application.CollectionsTask11.executor": "Run",
+    "Application.CollectionsTask13.executor": "Run",
+    "Application.CollectionsTask2.executor": "Run",
+    "Application.CollectionsTask3.executor": "Run",
+    "Application.CollectionsTask4And5.executor": "Run",
+    "Application.CollectionsTask6.executor": "Run",
+    "Application.CollectionsTask7.executor": "Run",
+    "Application.CollectionsTask8.executor": "Run",
+    "Application.CollectionsTask9.executor": "Run",
+    "Application.CollectionsTsk12.executor": "Run",
     "Application.ContolConst2.executor": "Run",
     "Application.ContolConst56.executor": "Run",
     "Application.ControlCons1.executor": "Run",
@@ -87,6 +106,7 @@
     "Application.LoopTask1.executor": "Run",
     "Application.LoopTask2.executor": "Run",
     "Application.LoopTask3.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Main2.executor": "Run",
     "Application.MainStringTask.executor": "Run",
     "Application.MainTask.executor": "Run",
@@ -100,14 +120,16 @@
     "Application.TaskArray4.executor": "Run",
     "Application.TaskArray5.executor": "Run",
     "Application.TaskException.executor": "Run",
+    "Application.VeryMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "new__branch2",
+    "git-widget-placeholder": "#11 on new__branch2",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hrabilin/Studying-Automation",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
@@ -160,27 +182,70 @@
       <option name="project" value="LOCAL" />
       <updated>1729266140739</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finished Practical OOP and task with exceptions">
+      <option name="closed" value="true" />
+      <created>1730278745794</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730278745794</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Finished Practical OOP and task with exceptions">
+      <option name="closed" value="true" />
+      <created>1730383247891</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730383247891</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Training Conflict">
+      <option name="closed" value="true" />
+      <created>1730383480395</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730383480395</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Training Conflict">
+      <option name="closed" value="true" />
+      <created>1730383908535</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730383908535</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New version of OOP Task with Figures">
+      <option name="closed" value="true" />
+      <created>1730795130447</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730795130447</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="new_branch2" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -192,6 +257,9 @@
     <MESSAGE value="New Branch" />
     <MESSAGE value="Add tasks from Control construct" />
     <MESSAGE value="Loop Task are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loop Task are added" />
+    <MESSAGE value="Finished Practical OOP and task with exceptions" />
+    <MESSAGE value="Training Conflict" />
+    <MESSAGE value="New version of OOP Task with Figures" />
+    <option name="LAST_COMMIT_MESSAGE" value="New version of OOP Task with Figures" />
   </component>
 </project>
