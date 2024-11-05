@@ -21,6 +21,6 @@ public class Circle extends Figure {
     @Override
     public double areaCalculation() {
         double result = Math.sqrt(Math.pow((getX2() - getX()), 2) + Math.pow((getY2() - getY()), 2));
-        return Math.PI*result*result;
+        return Math.PI * result * result;
     }
 }
