@@ -9,6 +9,7 @@
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask11.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask14.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask4And5.java" afterDir="false" />
@@ -17,6 +18,11 @@
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask9.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTsk12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/oop_task2/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/oop_task2/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/oop_task2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/oop_task2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/oop_task2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +94,7 @@
     "Application.CollectionsTask10.executor": "Run",
     "Application.CollectionsTask11.executor": "Run",
     "Application.CollectionsTask13.executor": "Run",
+    "Application.CollectionsTask14.executor": "Run",
     "Application.CollectionsTask2.executor": "Run",
     "Application.CollectionsTask3.executor": "Run",
     "Application.CollectionsTask4And5.executor": "Run",
@@ -100,6 +107,7 @@
     "Application.ContolConst56.executor": "Run",
     "Application.ControlCons1.executor": "Run",
     "Application.ControlCons7.executor": "Run",
+    "Application.Excercise.executor": "Run",
     "Application.ForLoopTask1.executor": "Run",
     "Application.ForLoopTask2.executor": "Run",
     "Application.Greeting.executor": "Run",
@@ -110,6 +118,7 @@
     "Application.Main2.executor": "Run",
     "Application.MainStringTask.executor": "Run",
     "Application.MainTask.executor": "Run",
+    "Application.MethodChain.executor": "Run",
     "Application.NewClass.executor": "Run",
     "Application.NewMain.executor": "Run",
     "Application.OOP_Practical.executor": "Run",
@@ -222,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730795130447</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="New version of OOP Task with Figures">
+      <option name="closed" value="true" />
+      <created>1730800901809</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730800901809</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
