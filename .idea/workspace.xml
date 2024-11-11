@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="New version of OOP Task with Figures">
+    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="New OOP Task">
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask11.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask13.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask16Version2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask17.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask4And5.java" afterDir="false" />
@@ -18,11 +22,6 @@
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask9.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTsk12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/oop_task2/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/oop_task2/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/oop_task2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/oop_task2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/oop_task2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,6 +94,10 @@
     "Application.CollectionsTask11.executor": "Run",
     "Application.CollectionsTask13.executor": "Run",
     "Application.CollectionsTask14.executor": "Run",
+    "Application.CollectionsTask15.executor": "Run",
+    "Application.CollectionsTask16.executor": "Run",
+    "Application.CollectionsTask16Version2.executor": "Run",
+    "Application.CollectionsTask17.executor": "Run",
     "Application.CollectionsTask2.executor": "Run",
     "Application.CollectionsTask3.executor": "Run",
     "Application.CollectionsTask4And5.executor": "Run",
@@ -131,7 +134,7 @@
     "Application.TaskException.executor": "Run",
     "Application.VeryMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "#11 on new__branch2",
+    "git-widget-placeholder": "new__branch2",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hrabilin/Studying-Automation",
@@ -239,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730800901809</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="New OOP Task">
+      <option name="closed" value="true" />
+      <created>1730881417074</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730881417074</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,7 +273,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -277,6 +300,7 @@
     <MESSAGE value="Finished Practical OOP and task with exceptions" />
     <MESSAGE value="Training Conflict" />
     <MESSAGE value="New version of OOP Task with Figures" />
-    <option name="LAST_COMMIT_MESSAGE" value="New version of OOP Task with Figures" />
+    <MESSAGE value="New OOP Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="New OOP Task" />
   </component>
 </project>
