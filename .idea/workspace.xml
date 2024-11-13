@@ -4,24 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="New OOP Task">
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask16Version2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask4And5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTsk12.java" afterDir="false" />
+    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="Collections Task">
+      <change afterPath="$PROJECT_DIR$/src/com/automation/interfaces/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/interfaces/GooglePayPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/interfaces/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/interfaces/PayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/interfaces/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/transportation/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/transportation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/transportation/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/transportation/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/transportation/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,65 +80,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CollectionTask3.executor": "Run",
-    "Application.CollectionsTask1.executor": "Run",
-    "Application.CollectionsTask10.executor": "Run",
-    "Application.CollectionsTask11.executor": "Run",
-    "Application.CollectionsTask13.executor": "Run",
-    "Application.CollectionsTask14.executor": "Run",
-    "Application.CollectionsTask15.executor": "Run",
-    "Application.CollectionsTask16.executor": "Run",
-    "Application.CollectionsTask16Version2.executor": "Run",
-    "Application.CollectionsTask17.executor": "Run",
-    "Application.CollectionsTask2.executor": "Run",
-    "Application.CollectionsTask3.executor": "Run",
-    "Application.CollectionsTask4And5.executor": "Run",
-    "Application.CollectionsTask6.executor": "Run",
-    "Application.CollectionsTask7.executor": "Run",
-    "Application.CollectionsTask8.executor": "Run",
-    "Application.CollectionsTask9.executor": "Run",
-    "Application.CollectionsTsk12.executor": "Run",
-    "Application.ContolConst2.executor": "Run",
-    "Application.ContolConst56.executor": "Run",
-    "Application.ControlCons1.executor": "Run",
-    "Application.ControlCons7.executor": "Run",
-    "Application.Excercise.executor": "Run",
-    "Application.ForLoopTask1.executor": "Run",
-    "Application.ForLoopTask2.executor": "Run",
-    "Application.Greeting.executor": "Run",
-    "Application.LoopTask1.executor": "Run",
-    "Application.LoopTask2.executor": "Run",
-    "Application.LoopTask3.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main2.executor": "Run",
-    "Application.MainStringTask.executor": "Run",
-    "Application.MainTask.executor": "Run",
-    "Application.MethodChain.executor": "Run",
-    "Application.NewClass.executor": "Run",
-    "Application.NewMain.executor": "Run",
-    "Application.OOP_Practical.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "Application.TaskArray.executor": "Run",
-    "Application.TaskArray2.executor": "Run",
-    "Application.TaskArray3.executor": "Run",
-    "Application.TaskArray4.executor": "Run",
-    "Application.TaskArray5.executor": "Run",
-    "Application.TaskException.executor": "Run",
-    "Application.VeryMain.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "new__branch2",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hrabilin/Studying-Automation",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CollectionTask3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask16Version2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask4And5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTask9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsTsk12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContolConst2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContolConst56.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ControlCons1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ControlCons7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Excercise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoopTask1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoopTask2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Greeting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopTask1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopTask2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopTask3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainStringTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodChain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OOP_Practical.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskArray2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskArray3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskArray4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskArray5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VeryMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#13 on new__branch2&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hrabilin/Studying-Automation&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -250,7 +244,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730881417074</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="New OOP Task">
+      <option name="closed" value="true" />
+      <created>1731342667822</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731342667822</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Collections Task">
+      <option name="closed" value="true" />
+      <created>1731342762333</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731342762333</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,7 +289,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="new_branch2" />
                       </list>
                     </value>
                   </entry>
@@ -301,6 +311,7 @@
     <MESSAGE value="Training Conflict" />
     <MESSAGE value="New version of OOP Task with Figures" />
     <MESSAGE value="New OOP Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="New OOP Task" />
+    <MESSAGE value="Collections Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections Task" />
   </component>
 </project>
