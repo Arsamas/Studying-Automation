@@ -14,10 +14,13 @@ public class CollectionsTask10 {
     public static void main(String[] args) throws IOException{
         System.out.println("Input ten string into the ArrayList:");
         ArrayList<String> str = new ArrayList<>();
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        //Fill ArrayList with elements, adding in the beginning of the list
-        for (int i = 0; i < 10; i ++) {
-            str.add(0, reader.readLine());
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
+            //Fill ArrayList with elements, adding in the beginning of the list
+            for (int i = 0; i < 10; i++) {
+                str.add(0, reader.readLine());
+            }
+        } catch (IOException e) {
+            System.out.println("An error occurred while reading input: " + e.getMessage());
         }
         //output elements of the list
         for (String el : str) {

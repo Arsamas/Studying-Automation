@@ -16,11 +16,16 @@ public class CollectionsTask9 {
     public static void main(String[] args) throws IOException {
         ArrayList<String> strArr = new ArrayList<>();
         System.out.println("Please, input five string: ");
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        //Read five string from console
-        for (int i = 0; i < 5; i ++) {
-            strArr.add(reader.readLine());
+
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
+            //Read five string from console
+            for (int i = 0; i < 5; i++) {
+                strArr.add(reader.readLine());
+            }
+        } catch (IOException e) {
+            System.out.println("An error occurred while reading input: " + e.getMessage());
         }
+
         //Find the shortest length of string
         int min = strArr.get(0).length();
         for (int j = 1; j < strArr.size(); j++) {

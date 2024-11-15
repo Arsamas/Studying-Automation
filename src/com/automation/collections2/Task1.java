@@ -35,7 +35,7 @@ public class Task1 {
         //Put all words in a low case
         String string = str.toLowerCase();
         //Pattern do delete ,/./space from array
-        String regex = "[\\d,. ]+";
+        String regex = "[\\,. ]+";
         //Split String to separate elements using pattern conditions
         String[] list = string.split(regex);
 
@@ -52,5 +52,4 @@ public class Task1 {
         }
         return map;
     }
-
 }

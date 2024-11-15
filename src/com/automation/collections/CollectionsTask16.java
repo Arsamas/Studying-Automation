@@ -48,7 +48,8 @@ public class CollectionsTask16 {
                 }
             }
             //If element is not duplicate, it will remove from List
-            if (i == 1 ) list.removeLast();
+            int size = list.size();
+            if (i == 1 ) list.remove(size - 1);
         }
         //Turn List into Set to get Set with unique keys
         Set<String> set = new HashSet<>(list);

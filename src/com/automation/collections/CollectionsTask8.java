@@ -17,10 +17,14 @@ public class CollectionsTask8 {
     public static void main(String[] args) throws IOException {
         ArrayList<String> str = new ArrayList<>();
         System.out.println("Please, input five string: ");
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        for(int i = 0; i < 5; i++) {
-            str.add(reader.readLine());
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
+            for (int i = 0; i < 5; i++) {
+                str.add(reader.readLine());
+            }
+        } catch (IOException e) {
+            System.err.println("An error occurred while reading input: " + e.getMessage());
         }
+
         int x = 0;
         //Define max length of element
         for (int i = 0; i < str.size(); i++) {
@@ -34,6 +38,5 @@ public class CollectionsTask8 {
                 System.out.println(str.get(i));
             }
         }
-
     }
 }
