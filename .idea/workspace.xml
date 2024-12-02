@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="Added another Task about collections in the package com.automation.collections2">
-      <change afterPath="$PROJECT_DIR$/src/com/automation/collections2/Task1Version2.java" afterDir="false" />
+    <list default="true" id="f2e671e4-bfa9-45e9-8fd6-2f095dc2ab14" name="Changes" comment="Updated tasks' code">
+      <change afterPath="$PROJECT_DIR$/src/com/automation/collections2/TaskGetOrDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/streams/StreamTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/streams/Task1FromAnya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/streams/Task2FromAnya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/automation/streams/Task3FromAnya.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/collections/CollectionsTask9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/automation/collections2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/automation/collections2/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,17 +116,22 @@
     "Application.NewClass.executor": "Run",
     "Application.NewMain.executor": "Run",
     "Application.OOP_Practical.executor": "Run",
+    "Application.StreamTask1.executor": "Run",
     "Application.Task1.executor": "Run",
+    "Application.Task1FromAnya.executor": "Run",
     "Application.Task1Version2.executor": "Run",
+    "Application.Task2FromAnya.executor": "Run",
+    "Application.Task3FromAnya.executor": "Run",
     "Application.TaskArray.executor": "Run",
     "Application.TaskArray2.executor": "Run",
     "Application.TaskArray3.executor": "Run",
     "Application.TaskArray4.executor": "Run",
     "Application.TaskArray5.executor": "Run",
     "Application.TaskException.executor": "Run",
+    "Application.TaskGetOrDefault.executor": "Run",
     "Application.VeryMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "#13 on new__branch2",
+    "git-widget-placeholder": "new__branch2",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hrabilin/Studying-Automation",
@@ -273,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731593662755</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Updated tasks' code">
+      <option name="closed" value="true" />
+      <created>1731680450915</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1731680450915</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,6 +341,7 @@
     <MESSAGE value="Collections Task" />
     <MESSAGE value="Added OOP Task in the packages: transportation and interfaces" />
     <MESSAGE value="Added another Task about collections in the package com.automation.collections2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added another Task about collections in the package com.automation.collections2" />
+    <MESSAGE value="Updated tasks' code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated tasks' code" />
   </component>
 </project>

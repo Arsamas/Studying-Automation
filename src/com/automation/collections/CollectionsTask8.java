@@ -3,6 +3,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.io.InputStreamReader;
 import java.io.BufferedReader;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Optional;
+import java.util.stream.*;
 
 
 /*
@@ -25,18 +29,32 @@ public class CollectionsTask8 {
             System.err.println("An error occurred while reading input: " + e.getMessage());
         }
 
-        int x = 0;
+
+        //int x = 0;
         //Define max length of element
-        for (int i = 0; i < str.size(); i++) {
+        /*for (int i = 0; i < str.size(); i++) {
             if (str.get(i).length() > x) {
                 x = str.get(i).length();
             }
-        }
+        }*/
+
         //Output all element with max value
-        for (int i = 0; i < str.size(); i++) {
+        /*for (int i = 0; i < str.size(); i++) {
             if (str.get(i).length() == x) {
                 System.out.println(str.get(i));
             }
+        }*/
+
+        //Define the word with maximum length
+        Optional<String> maxWord = str.stream().max(Comparator.comparing((n) -> n.length()));
+        //Define size of the maximum word
+        if(maxWord.isPresent()) {
+            //Define size of the maximum word
+            int maxVal = maxWord.get().length();
+            //Create stream with words
+            Stream<String> maxStr = str.stream().filter((n) -> n.length() == maxVal);
+            //Output stream
+            maxStr.forEach(System.out::println);
         }
     }
 }
